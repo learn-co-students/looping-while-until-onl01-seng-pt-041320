@@ -6,5 +6,9 @@ while "Wingardium_Leviosa" < 10
 end
 
  
+<<<<<<< HEAD
 puts "#{levitation}"
+=======
+puts "#{levitation}
+>>>>>>> df6306bd9c796c12acad9543e02784c49187668b
 end 
